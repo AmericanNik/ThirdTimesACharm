@@ -1,0 +1,18 @@
+.topHeader{
+    color:blue;
+    background-color:black;
+    border:15px solid red;
+    margin-bottom: 100px;
+    padding:50px;
+    text-align:center;
+}
+
+h1{color:green}
+
+.container{
+    width:80%;
+    margin:auto;
+    text-align:center;
+    margin:20px;
+    border:50px solid green;
+}
